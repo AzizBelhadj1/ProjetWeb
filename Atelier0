@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+	<!-- SECTION: Splashscreen -->
+	<div class="splashscreen">
+		<div class="preloader">
+			<span class="preloader__text">Bienvenue </span>
+		</div>
+	</div>
+	<!-- END SECTION: Splashscreen -->
+	
+	<!-- SECTION: Intro -->
+	<header class="header">
+		<!-- SECTION: Navigation -->
+		<hr><div id="top" class="navigation">
+		<div id="top" class="navigation">
+			<div class="d-flex wrapper--large">
+				<a class="navigation__logo logo" href="#home"><img src="mon.png" height="150" width="200"> </a>
+				<a href="#home"><img src="home1.png" height="50" width="40"> Accueil</a>
+				<a href="#cv"><img src="cv.png" height="50" width="40">CV </a>
+				<a href="#portfolio"><img src="3.png" height="50" width="40">Projets</a>
+				<a href="#contact" class="ml-auto"><img src="contact.png" height="50" width="40">Contact</a>
+			</div>
+		</div>
+	</div><hr>
+	<!-- END SECTION: Navigation -->
+	</header>
+	<!-- END SECTION: Intro -->
+	<main role="main">
+		<!-- SECTION: About -->
+		<section class="about">
+			<br> <br> <br> <br> <br><h2 <p align="center"class="work__heading title">Mon parcous académique </h2>
+			<hr><p align="center" style="color:black" ;>  
+				Aziz Belhadj, diplômé du baccalauréat en sciences expérimentales en 2020 et titulaire d'une licence en physique en 2023, je suis un professionnel doté d'un solide bagage académique.
+                 Au cours de mon parcours, j'ai complété ma formation par des certifications significatives, notamment un Certificate-Online-Business délivré par The State University of New York, ainsi que deux Certificats d'entreprise.
+                 <br> Ces acquisitions témoignent de ma volonté constante d'élargir mes compétences et de m'adapter aux exigences du monde professionnel. Animé par la passion de réaliser mes aspirations, mon objectif actuel est de concrétiser mon rêve en obtenant un diplôme d'ingénieur en informatique. 
+                 <br>Cette orientation traduit ma détermination à fusionner mes connaissances scientifiques avec une expertise pointue dans le domaine de l'informatique.
+                 <br>Mon parcours académique diversifié constitue le socle sur lequel je construis ma trajectoire professionnelle, affirmant ma polyvalence et mon engagement envers l'excellence.
+			</p><hr>
+			<br> <h2 <p align="center" class="work__heading title">Mon CV </h2>
+			<hr><p align="center"><img  src="Aziz cv.png" alt="image" height="500" width="400"></p><hr>
+		</section>
+		<!-- END SECTION: About -->
+		
+			<br><br><br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+		<!-- SECTION: Work -->
+		<section id="portfolio" class="work">
+			<h2 <p align="center" class="work__heading title">Mes projets </h2>
+			<hr> 
+			<h3> <p align="center"  style="color: red ;"><u> <strong> Projet Fin d'études </strong></u> </p> </h3><hr>
+			<br> <p align="center" style="color:black"><strong> Mon projet de fin d'études consiste en la conception et la réalisation d'une voiture suiveur de ligne, une initiative qui marie la théorie académique à l'application concrète des connaissances acquises. Centré sur les principes de la robotique et de la programmation, j'ai opté pour la plateforme Arduino pour donner vie à ce projet innovant. Mon objectif était de créer un système intelligent capable de suivre une trajectoire prédéfinie avec précision en utilisant des capteurs de ligne. À travers des techniques avancées de programmation, j'ai développé un code embarqué sur Arduino permettant au robot de prendre des décisions en temps réel en fonction des données fournies par les capteurs.  </strong>
+			<br> <br> <br> <img align="center" src="p2.jpg"height=300 width="350"><img align="center" src="p4.jpg" height="300" width="350"><img align="center" src="p3.jpg" height="300" width="350"> <img align="center" src="p1.jpg" height="300" width="350">
+			<hr><br><h3> <p align="center"  style="color: red ;"><u> <strong> Forum d'entreprise </strong></u> </p> </h3><hr>
+			<br> <p align="center" style="color:black"><strong> 
+                Au sein du forum d'entreprise, je suis ravi de partager mon engagement continu dans le développement professionnel. Récemment, j'ai eu l'opportunité enrichissante de participer à une formation axée sur la "Communication Efficace, le Storytelling et la Langue Corporelle".
+                <br> Cette expérience a été particulièrement significative pour moi, car elle m'a permis d'acquérir des compétences essentielles en communication interpersonnelle, en narration persuasive et en compréhension approfondie du langage corporel.  </strong>
+			<br> <br> <br><img align="center" src="01.jpg"height=300 width="350"><img align="center" src="02.jpg" height="300" width="350"><img align="center" src="03.jpg" height="300" width="350"> <img align="center" src="04.jpg" height="300" width="350"><hr>
+			<h3> <p align="center"  style="color: red ;"><u> <strong> Dropshipping </strong></u> </p> </h3>
+			<hr><p style="color:black" align ="center"><b>Le dropshipping est un modèle d'affaires dans lequel le détaillant (le dropshipper) ne détient pas les produits qu'il vend en stock. Au lieu de cela, lorsque le détaillant vend un produit, il achète le produit auprès d'un tiers (généralement un grossiste ou un fabricant) et le fait expédier directement au client. Ainsi, le dropshipper n'a pas à gérer l'inventaire ni à traiter directement avec les produits physiques.</b>
+				<br>
+				<br>
+				<img align="center" src="d1.png"alt ="Logo" height="400" width="500"><img align="center" src="d2.png"alt ="Logo" height="400" width="500"></p><hr>
+				<h3> <p align="center"  style="color: red ;"><u> <strong> Online Business  </strong></u> </p> </h3>
+				<hr><p style="color:black" align ="center"><b>Le business en ligne, également connu sous le nom de commerce électronique, englobe un large éventail d'activités commerciales réalisées sur Internet. Cette modalité commerciale a considérablement évolué avec l'avancement de la technologie, offrant aux entrepreneurs et aux entreprises une plateforme mondiale pour vendre des produits et des services. </b>
+				<br>
+				<br>
+				<img align="center" src="b1.jpg"alt="image" height="400" width="500"><hr>
+		
+		<!-- SECTION: Contact -->
+		<section id="contact" class="contact">
+			<h2 align="center"class="contact__heading title">Contacter moi </h2>
+			<hr><div class="contact__wrapper wrapper--large">
+				<div align="center" class="contact__visual">
+					<img src="n.1.png" height="350" width="350" >
+				</div>
+				<!-- Simple form setup: formspree.io -->
+				<form align="center" class="contact__form">
+					<input class="contact__form-el contact__form-el--name" type="text" placeholder="Your Name" spellcheck="false">
+					
+					<input class="contact__form-el contact__form-el--email" type="email" placeholder="Your Email" spellcheck="false">
+					
+					<textarea class="contact__form-el contact__form-el--message" placeholder="Your Message"></textarea>
+					
+					<input class="contact__form-el contact__form-el--submit" type="submit" value="Send">
+				</form>
+			</div><hr>
+		</section>
+		<!-- END SECTION: Contact -->
+	</main>
+	<!-- SECTION: Footer -->
+	<br>
+	<br>
+	<footer class="footer">
+		<div class="footer__wrapper wrapper--large">
+			<p class="footer__copyright no-margin">&copy; 2023 -Mon Portfolio</p>
+			
+		</div>
+	</footer>
+	<!-- END SECTION: Footer -->
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+	<script src="js/functions-min.js"></script>
+
+</body>
+</html>
